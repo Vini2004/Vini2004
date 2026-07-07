@@ -1,15 +1,15 @@
 ### Olá! Eu sou o Vinicius Almeida Nunes 👋
 
-- 🔭 Atualmente trabalho como Analista de SD
-- 🌱 Estudando Java e Spring 
+- 🔭 Atualmente trabalho como Analista Desenvolvedor JR na Trucks Control
+- 🌱 Estudando .NET e C#
 - 📫 E-mail: vinunes.2004@gmail.com
 
 ##
 
 <div>
-  <p>Olá! Sou Vinicius, um entusiasta de desenvolvimento apaixonado por transformar linhas de código em soluções práticas. Atualmente, faço parte da equipe de Service Desk N1 na Atos, onde me dedico ao atendimento ao usuário e solução de desafios tecnológicos.</p>
+  <p>Olá! Sou Vinicius, um entusiasta de desenvolvimento apaixonado por transformar linhas de código em soluções práticas. Minha jornada em tecnologia começou na Atos, atuando no Service Desk N1 com atendimento ao usuário e solução de desafios tecnológicos, o que me aproximou ainda mais do universo do desenvolvimento.</p>
 
-  <p>Minha jornada no mundo da programação me levou a mergulhar profundamente no universo do desenvolvimento Back End. Minha linguagem de escolha é o Java, e estou constantemente explorando seu potencial para criar sistemas robustos e eficientes. Além disso, tenho conheciomento no framework Spring e sou capaz de aproveitar o poder do MySQL para gerenciar dados de forma inteligente.</p>
+  <p>Na sequência, atuei por 2 anos como Desenvolvedor Full-Stack JR na Ágili Software Brasil, trabalhando com sistemas web. Atualmente, sou Analista Desenvolvedor JR na Trucks Control, onde atuo principalmente com sistemas desktop. Meu foco atual de estudos é o desenvolvimento Back End com .NET e C#, através do curso da desenvolvedor.io, sempre buscando criar sistemas robustos e eficientes.</p>
 
   <p>Minha versatilidade também se estende ao Front End. Com conhecimentos sólidos em HTML, CSS e JavaScript, posso criar interfaces atraentes e interativas que complementam minhas habilidades Back End. Acredito que a combinação dessas competências me permite enxergar os projetos de diferentes perspectivas e entregar soluções mais completas.</p>
 
@@ -27,12 +27,11 @@
 ##
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BootStrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
 </div>
 
